@@ -1,2 +1,2 @@
 # alx-zero_day
-Alx first repository
+Alx first repository for the zero day projects.
